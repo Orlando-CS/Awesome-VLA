@@ -66,13 +66,15 @@ If you would like to include your paper or update any details (e.g., code urls, 
 
 # Awesome Papers
 
-| Model | Organization | Key Contribution | 📖 Paper | 🌟 Project | 🤖 Hugging Face |
-|:---|:---:|:---|:---:|:---:|:---:|
-| **RT-2** | Google DeepMind | Co-fine-tunes on robot data and internet-scale VLM data for semantic robotic reasoning. | [Paper](https://arxiv.org/abs/2307.15818) | [Project](https://robotics-transformer2.github.io/) | - |
-| **Helix** | Figure AI | First model achieving full upper-body humanoid control. | - | [Project](https://www.figure.ai/news/helix) | - |
-| **π0 (Pi-Zero)** | Physical Intelligence | Flow matching action generation across robots. | - | [Project](https://huggingface.co/blog/pi0) | - |
-| **OpenVLA** | Stanford | Open-sourced 7B model trained on 970k+ robotic episodes. | [Paper](https://arxiv.org/abs/2406.09246) | [Project](https://openvla.github.io/) | [Hugging Face](https://huggingface.co/openvla/openvla-7b) |
-| **Gemini Robotics** | Google DeepMind | Real-world physical actions without task-specific training. | - | [Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) | - |
+| Model | Organization | Key Contribution | Project/Hugging Face | Time |
+|:---|:---:|:---|:---:|:---:|
+| [**RT-2**](https://robotics-transformer2.github.io/) | Google DeepMind | Co-fine-tunes on robot data and internet-scale VLM data for semantic robotic reasoning. | [Project](https://robotics-transformer2.github.io/) | 2023-07 |
+| [**Helix**](https://www.figure.ai/news/helix) | Figure AI | First model achieving full upper-body humanoid control. | [Project](https://www.figure.ai/news/helix) | 2024-04 |
+| [**π0 (Pi-Zero)**](https://huggingface.co/blog/pi0) | Physical Intelligence | Flow matching action generation across robots. | [Project](https://huggingface.co/blog/pi0) | 2024-04 |
+| [**OpenVLA**](https://openvla.github.io/) | Stanford | Open-sourced 7B model trained on 970k+ robotic episodes. | [Project](https://openvla.github.io/) | 2024-06 |
+| [**Gemini Robotics**](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) | Google DeepMind | Real-world physical actions without task-specific training. | [Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) | 2024-05 |
+| [**TinyVLA**](https://arxiv.org/abs/2409.12514) | - | Compact VLA models with faster inference speeds and improved data efficiency | [Paper](https://arxiv.org/abs/2409.12514) | 2024-09 |
+| [**VLA Model-Expert Collaboration**](https://arxiv.org/abs/2503.04163) | - | Enhances VLA model performance through collaboration with a limited number of expert actions | [Paper](https://arxiv.org/abs/2503.04163) | 2025-03 |
 
 ---
 
