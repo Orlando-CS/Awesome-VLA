@@ -63,5 +63,5 @@
 
 # 📑 Table of Contents
 
-- [Awesome-Vision-Language-Action-Models](#-Awesome-VLA-Models)
-- [Awesome-Papers](#-Awesome-Papers)
+- [Awesome VLA Models](#awesome-vla-models)
+- [Awesome Papers](#awesome-papers)
