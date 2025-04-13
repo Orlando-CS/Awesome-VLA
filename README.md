@@ -1,4 +1,4 @@
-# 🌟 Top Vision-Language-Action (VLA) Models
+# Awesome Vision-Language-Action Models
 
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
 <p align="center">
@@ -49,7 +49,7 @@
 
 ---
 
-# 📋 Table Overview of Top Vision-Language-Action (VLA) Models
+# 📋 Awesome Papers
 
 | Model | Organization | Key Contribution | 📖 Paper | 🌟 Project | 🤖 Hugging Face |
 |:---|:---:|:---|:---:|:---:|:---:|
@@ -63,5 +63,5 @@
 
 # 📑 Table of Contents
 
-- [🔥 Top Vision-Language-Action (VLA) Models](#-top-vision-language-action-vla-models)
-- [📋 Table Overview of Top Vision-Language-Action (VLA) Models](#-table-overview-of-top-vision-language-action-vla-models)
+- [Awesome-Vision-Language-Action-Models](#-Awesome-Vision-Language-Action-Models)
+- [Awesome-Papers](#-Awesome-Papers)
