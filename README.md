@@ -8,15 +8,13 @@ This is a collection of research papers about Embodied Multimodal Large Language
 
 If you would like to include your paper or update any details (e.g., code urls, conference information), please feel free to submit a pull request or email me. Any advice is also welcome.
 
-
-# Awesome VLA Models
-
 # 📑 Table of Contents
 
 - [Awesome VLA Models](#awesome-vla-models)
 - [Awesome Papers](#awesome-papers)
+  
 
-
+# Awesome VLA Models
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
 <p align="center">
     <img src="./images/rt2.jpg" width="60%" height="60%">
