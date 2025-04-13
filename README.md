@@ -49,7 +49,7 @@
 
 ---
 
-# 📋 Awesome Papers
+# Awesome Papers
 
 | Model | Organization | Key Contribution | 📖 Paper | 🌟 Project | 🤖 Hugging Face |
 |:---|:---:|:---|:---:|:---:|:---:|
