@@ -1,4 +1,4 @@
-# Awesome Vision-Language-Action Models
+# Awesome VLA Models
 
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
 <p align="center">
@@ -63,5 +63,5 @@
 
 # 📑 Table of Contents
 
-- [Awesome-Vision-Language-Action-Models](#-Awesome-Vision--Language--Action-Models)
+- [Awesome-Vision-Language-Action-Models](#-Awesome-VLA-Models)
 - [Awesome-Papers](#-Awesome-Papers)
