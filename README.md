@@ -23,9 +23,6 @@
 ---
 
 🔥🔥🔥 **π0 (Pi-Zero): Generalist VLA Across Diverse Robots**  
-<p align="center">
-    <img src="./images/pizero.jpg" width="60%" height="60%">
-</p>
 
 <div align='center'> [📖 Hugging Face Blog](https://huggingface.co/blog/pi0) </div>
 
@@ -34,9 +31,6 @@
 ---
 
 🔥🔥🔥 **OpenVLA: Open-Source Large-Scale Vision-Language-Action Model**  
-<p align="center">
-    <img src="./images/openvla.jpg" width="60%" height="60%">
-</p>
 
 <div align='center'> [📖 OpenVLA Project Page](https://openvla.github.io/) </div>
 
@@ -46,7 +40,7 @@
 
 🔥🔥🔥 **Gemini Robotics: Multimodal Generalization to Physical Action**  
 <p align="center">
-    <img src="./images/gemini_robotics.jpg" width="60%" height="60%">
+    <img src="./images/gemini_robotics.webp" width="60%" height="60%">
 </p>
 
 <div align='center'> [📖 The Verge Report](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) </div>
