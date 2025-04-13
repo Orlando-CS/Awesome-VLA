@@ -1,4 +1,21 @@
+<div align="center">
+    <h1>Awesome Vison-Language-Action Models</h1>
+    <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
+    <img src=https://img.shields.io/github/stars/Orlando-CS/Awesome-VLA.svg?style=social >
+</div>
+
+This is a collection of research papers about Embodied Multimodal Large Language Models (VLA models).
+
+If you would like to include your paper or update any details (e.g., code urls, conference information), please feel free to submit a pull request or email me. Any advice is also welcome.
+
+
 # Awesome VLA Models
+
+# 📑 Table of Contents
+
+- [Awesome VLA Models](#awesome-vla-models)
+- [Awesome Papers](#awesome-papers)
+
 
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
 <p align="center">
@@ -61,7 +78,4 @@
 
 ---
 
-# 📑 Table of Contents
 
-- [Awesome VLA Models](#awesome-vla-models)
-- [Awesome Papers](#awesome-papers)
