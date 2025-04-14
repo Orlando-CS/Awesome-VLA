@@ -21,6 +21,7 @@ If you would like to include your paper or update any details (e.g., code URLs, 
 
 
 [📖 Paper](https://arxiv.org/abs/2307.15818) | [🌟 Project](https://robotics-transformer2.github.io/)
+
 <img src="./images/rt2.jpg" width="45%" alt="RT-2 Image">
 
 Integrates vision-language models trained on internet-scale data directly into robotic control pipelines. ✨
@@ -30,6 +31,7 @@ Integrates vision-language models trained on internet-scale data directly into r
 🔥🔥🔥 **Helix: Generalist VLA Model for Full-Body Humanoid Control**  
 
 [🌟 Project](https://www.figure.ai/news/helix)
+
 <img src="./images/helix.jpg" width="45%" alt="Helix Image">
 
 First VLA model achieving full upper-body humanoid control including fingers, wrists, torso, and head. ✨
@@ -56,6 +58,7 @@ Pretrained on 970k+ robotic episodes, setting a new benchmark for generalist rob
 
 
 [🌟 Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
+
 <img src="./images/gemini_robotics.webp" width="45%" alt="Gemini Robotics Image">
 
 Built on Gemini 2.0, enabling complex real-world manipulation without task-specific training. ✨
