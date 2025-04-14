@@ -18,67 +18,46 @@ If you would like to include your paper or update any details (e.g., code URLs, 
 # Awesome VLA Models
 
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
-<div align="center">
-  <img src="./images/rt2.jpg" width="60%" height="60%">
-  <br/>
 
-| Paper | Project |
-|:---|:---|
-| [📖 RT-2 Paper](https://arxiv.org/abs/2307.15818) | [🌟 RT-2 Project](https://robotics-transformer2.github.io/) |
 
-</div>  
+[📖 Paper](https://arxiv.org/abs/2307.15818) | [🌟 Project](https://robotics-transformer2.github.io/)
+<img src="./images/rt2.jpg" width="45%" alt="RT-2 Image">
+
 Integrates vision-language models trained on internet-scale data directly into robotic control pipelines. ✨
 
 ---
 
 🔥🔥🔥 **Helix: Generalist VLA Model for Full-Body Humanoid Control**  
-<div align="center">
-  <img src="./images/helix.jpg" width="60%" height="60%">
-  <br/>
 
-| Project |
-|:---|
-| [🌟 Helix Project](https://www.figure.ai/news/helix) |
+[🌟 Project](https://www.figure.ai/news/helix)
+<img src="./images/helix.jpg" width="45%" alt="Helix Image">
 
-</div>  
 First VLA model achieving full upper-body humanoid control including fingers, wrists, torso, and head. ✨
 
 ---
 
 🔥🔥🔥 **π0 (Pi-Zero): Generalist VLA Across Diverse Robots**  
-<div align="center">
 
-| Project |
-|:---|
-| [🌟 Pi-Zero Project](https://huggingface.co/blog/pi0) |
+[🌟 Project](https://huggingface.co/blog/pi0)
 
-</div>  
 Generalist control across various robot embodiments, utilizing large-scale pretraining and flow matching action generation. ✨
 
 ---
 
 🔥🔥🔥 **OpenVLA: Open-Source Large-Scale Vision-Language-Action Model**  
-<div align="center">
 
-| Paper | Project | Hugging Face |
-|:---|:---|:---|
-| [📖 OpenVLA Paper](https://arxiv.org/abs/2406.09246) | [🌟 OpenVLA Project](https://openvla.github.io/) | [🤖 OpenVLA HF](https://huggingface.co/openvla/openvla-7b) |
+[📖 Paper](https://arxiv.org/abs/2406.09246) | [🌟 Project](https://openvla.github.io/) | [🤖 Hugging Face](https://huggingface.co/openvla/openvla-7b)
 
-</div>  
 Pretrained on 970k+ robotic episodes, setting a new benchmark for generalist robotic policies. ✨
 
 ---
 
 🔥🔥🔥 **Gemini Robotics: Multimodal Generalization to Physical Action**  
-<div align="center">
-  <img src="./images/gemini_robotics.webp" width="60%" height="60%">
-  <br/>
 
-| Project |
-|:---|
-| [🌟 Gemini Robotics Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) |
 
-</div>  
+[🌟 Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
+<img src="./images/gemini_robotics.webp" width="45%" alt="Gemini Robotics Image">
+
 Built on Gemini 2.0, enabling complex real-world manipulation without task-specific training. ✨
 
 ---
