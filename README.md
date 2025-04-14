@@ -21,7 +21,11 @@ If you would like to include your paper or update any details (e.g., code URLs, 
 <div align="center">
   <img src="./images/rt2.jpg" width="60%" height="60%">
   <br/>
-  [📖 Paper](https://arxiv.org/abs/2307.15818) | [🌟 Project](https://robotics-transformer2.github.io/)
+
+| Paper | Project |
+|:---|:---|
+| [📖 RT-2 Paper](https://arxiv.org/abs/2307.15818) | [🌟 RT-2 Project](https://robotics-transformer2.github.io/) |
+
 </div>  
 Integrates vision-language models trained on internet-scale data directly into robotic control pipelines. ✨
 
@@ -31,7 +35,11 @@ Integrates vision-language models trained on internet-scale data directly into r
 <div align="center">
   <img src="./images/helix.jpg" width="60%" height="60%">
   <br/>
-  [🌟 Project](https://www.figure.ai/news/helix)
+
+| Project |
+|:---|
+| [🌟 Helix Project](https://www.figure.ai/news/helix) |
+
 </div>  
 First VLA model achieving full upper-body humanoid control including fingers, wrists, torso, and head. ✨
 
@@ -39,8 +47,11 @@ First VLA model achieving full upper-body humanoid control including fingers, wr
 
 🔥🔥🔥 **π0 (Pi-Zero): Generalist VLA Across Diverse Robots**  
 <div align="center">
-  <br/>
-  [🌟 Project](https://huggingface.co/blog/pi0)
+
+| Project |
+|:---|
+| [🌟 Pi-Zero Project](https://huggingface.co/blog/pi0) |
+
 </div>  
 Generalist control across various robot embodiments, utilizing large-scale pretraining and flow matching action generation. ✨
 
@@ -48,8 +59,11 @@ Generalist control across various robot embodiments, utilizing large-scale pretr
 
 🔥🔥🔥 **OpenVLA: Open-Source Large-Scale Vision-Language-Action Model**  
 <div align="center">
-  <br/>
-  [📖 Paper](https://arxiv.org/abs/2406.09246) | [🌟 Project](https://openvla.github.io/) | [🤖 Hugging Face](https://huggingface.co/openvla/openvla-7b)
+
+| Paper | Project | Hugging Face |
+|:---|:---|:---|
+| [📖 OpenVLA Paper](https://arxiv.org/abs/2406.09246) | [🌟 OpenVLA Project](https://openvla.github.io/) | [🤖 OpenVLA HF](https://huggingface.co/openvla/openvla-7b) |
+
 </div>  
 Pretrained on 970k+ robotic episodes, setting a new benchmark for generalist robotic policies. ✨
 
@@ -59,7 +73,11 @@ Pretrained on 970k+ robotic episodes, setting a new benchmark for generalist rob
 <div align="center">
   <img src="./images/gemini_robotics.webp" width="60%" height="60%">
   <br/>
-  [🌟 Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models)
+
+| Project |
+|:---|
+| [🌟 Gemini Robotics Project](https://www.theverge.com/news/628021/google-deepmind-gemini-robotics-ai-models) |
+
 </div>  
 Built on Gemini 2.0, enabling complex real-world manipulation without task-specific training. ✨
 
@@ -69,7 +87,7 @@ Built on Gemini 2.0, enabling complex real-world manipulation without task-speci
 
 | Title | Introduction | Date | Code |
 |:---|:---|:---|:---|
-| [PaLM-E](https://arxiv.org/abs/2303.03378) | Integrates perception, language, and action for embodied AI. | 2023-03-06 | - |
+| [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) | Integrates perception, language, and action for embodied AI. | 2023-03-06 | - |
 | [EmbodiedGPT](https://arxiv.org/abs/2305.15021) | Vision-language models with embodied CoT reasoning. | 2023-05-24 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) |
 | [Co-LLM-Agents](https://arxiv.org/abs/2307.02485) | Cooperative embodied agents via modular LLMs. | 2023-07-05 | [Github](https://github.com/UMass-Foundation-Model/Co-LLM-Agents) |
 | [RT-2](https://arxiv.org/abs/2307.15818) | Transfers VLM internet knowledge to robotic control. | 2023-07-28 | - |
@@ -95,4 +113,37 @@ Built on Gemini 2.0, enabling complex real-world manipulation without task-speci
 ---
 
 # Awesome Datasets and Benchmarks
-（略，保留原版表格即可）
+
+## 🏗️ Scene / Environment Generation
+
+| Title | Introduction | Date | Code |
+|:---|:---|:---|:---|
+| [Holodeck](https://arxiv.org/abs/2312.09067) | LLMs generate interactive 3D simulation environments. | 2023-12-14 | [Github](https://github.com/allenai/Holodeck) |
+| [PhyScene](https://arxiv.org/pdf/2404.09465) | Physically interactive 3D scenes for embodied training. | 2024-04-15 | [Github](https://github.com/PhyScene/PhyScene/tree/main) |
+
+## 🧠 Question Answering / Language Interaction Benchmarks
+
+| Title | Introduction | Date | Code |
+|:---|:---|:---|:---|
+| [OpenEQA](https://openaccess.thecvf.com/content/CVPR2024/papers/Majumdar_OpenEQA_Embodied_Question_Answering_in_the_Era_of_Foundation_Models_CVPR_2024_paper.pdf) | Visual QA benchmark for real-world scenes. | 2024-06-17 | [Github](https://github.com/facebookresearch/open-eqa) |
+| [EQA-REAL](https://arxiv.org/abs/2404.13083) | Real-world EmbodiedQA for indoor settings. | 2024-04 | [Github](https://github.com/facebookresearch/eqa-real) |
+| [TEACh](https://arxiv.org/abs/2109.00582) | Human-human embodied task dialogues. | 2023 update (original 2021) | [Github](https://github.com/alexa/teach) |
+
+## 👀 Multi-Modal Perception Datasets
+
+| Title | Introduction | Date | Code |
+|:---|:---|:---|:---|
+| [EmbodiedScan](https://arxiv.org/abs/2312.16170) | Real-world RGB-D + language 3D scans. | 2023-12-26 | [Github](https://github.com/OpenRobotLab/EmbodiedScan) |
+
+## 🕹️ End-to-End Embodied Decision Making / Simulators
+
+| Title | Introduction | Date | Code |
+|:---|:---|:---|:---|
+| [PCA-EVAL](https://arxiv.org/abs/2310.02071) | Decision-making via GPT-4V evaluation. | 2023-10-03 | [Github](https://github.com/pkunlp-icler/PCA-EVAL) |
+| [UniSim](https://arxiv.org/abs/2310.06114) | Interactive real-world simulator learning. | 2023-10-09 | - |
+
+## 🏡 Household Activities / Task Benchmarks
+
+| Title | Introduction | Date | Code |
+|:---|:---|:---|:---|
+| [BEHAVIOR-1K](https://arxiv.org/abs/2307.07263) | 1,000 household activity programs and scenes. | 2023-07-11 | [Project](https://behavior.stanford.edu/) |
