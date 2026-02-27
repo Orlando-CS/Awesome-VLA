@@ -17,6 +17,19 @@ If you would like to include your paper or update any details (e.g., code URLs, 
 
 # Awesome VLA Models
 
+
+---
+
+🔥🔥🔥 **ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning**
+
+[📖 Paper](https://arxiv.org/abs/2602.11236) | 
+[🌟 Project](https://amap-cvlab.github.io/ABot-Manipulation/) | 
+[💻 Code](https://github.com/amap-cvlab/ABot-Manipulation)
+
+Largest unified open-source robotic manipulation dataset (6M+ trajectories) with **Action Manifold Learning (AML)** for direct clean action prediction.  
+Supports modular 3D perception for plug-and-play spatial enhancement and improved precision in complex tasks. ✨
+
+
 🔥🔥🔥 **RT-2: Robotics Transformer 2 — End-to-End Vision-Language-Action Model**  
 
 
@@ -91,6 +104,7 @@ Built on Gemini 2.0, enabling complex real-world manipulation without task-speci
 | [OpenVLA](https://arxiv.org/abs/2406.09246) | Open-sourced 7B vision-language-action model. | 2024-06-13 | [Github](https://github.com/openvla/openvla) |
 | [TinyVLA](https://arxiv.org/abs/2409.12514) | Compact and efficient VLA models. | 2024-09 | [Paper](https://arxiv.org/abs/2409.12514) |
 | [VLA Expert Collaboration](https://arxiv.org/abs/2503.04163) | Improves VLA via expert actions. | 2025-03 | [Paper](https://arxiv.org/abs/2503.04163) |
+| [ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning](https://arxiv.org/abs/2602.11236) | Largest unified 6M+ manipulation dataset with Action Manifold Learning for stable clean action prediction. | 2026-02 | [Github](https://github.com/amap-cvlab/ABot-Manipulation) |
 
 ---
 
